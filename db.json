@@ -8,6 +8,6 @@
         "minCharsToListPredictionOthers":3,
         "salesforceRedirectUri":"",
         "salesforceConsumerKey":"",
-        "googleAppLocationKey":""
+        "googleAppLocationKey":"abcd"
     }
 }
